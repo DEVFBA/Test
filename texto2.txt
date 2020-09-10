@@ -1,2 +1,0 @@
-Prueba de .gitignore después de enviado el archivo a git (Commit) y después renombrar
-
